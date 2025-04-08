@@ -42,3 +42,11 @@ https://en.wikipedia.org/wiki/Napoleon#/media/File:Jacques-Louis_David_-_The_Emp
 https://ko.wikipedia.org/wiki/%EB%8B%8C%ED%85%90%EB%8F%84%EC%9D%98_%EC%97%AD%EC%82%AC#/media/%ED%8C%8C%EC%9D%BC:Nintendo_1949_New_Year_staff_commemoration.webp
 
 Note, all the Wikipedia images I found of Nintendo are in the public domain.
+
+# Many thanks to
+
+Scratch Foundations & Turbowarp Team for making this joke game possible
+
+i used tto cipiled the sb3 to .exe with the help of this website:
+
+https://packager.turbowarp.org/
