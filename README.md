@@ -1,9 +1,9 @@
 # TJccbtFG
 My “Fan Game” is now open source under the MIT license
 
-Credits:
+# Credits:
 
-Credits:
+
 
 Wikipedia for the all images & the OST
 
