@@ -1,4 +1,4 @@
-# TJccbtFG
+# About this joke game
 My “Fan Game” is now open source under the MIT license
 
 # Credits:
